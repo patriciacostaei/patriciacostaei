@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Patrícia Costa from Portugal<br><br>- 🔭 I’m working as a Senior Technical Officer<br>- 📚 I'm currently studying Computer Engineering<br>- 🔒 I have a strong interest in cybersecurity and digital forensics<br>-⚡ In my free time, I enjoy being with my family and creating new projects in my field</p>
+<p align="left">I'm Patrícia Costa from Portugal<br><br>- 🔭 Currently seeking opportunities in the field<br>- 📚 I'm currently studying Computer Engineering<br>- 🔒 I have a strong interest in cybersecurity and digital forensics<br>-⚡ In my free time, I enjoy being with my family and creating new projects in my field</p>
 
 ###
 
